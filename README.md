@@ -1,1 +1,1 @@
-# DictioanryVsBinarySearchTree
+# DictionaryVsBinarySearchTree
